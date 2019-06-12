@@ -1,1 +1,1 @@
-JOS was developed at MIT to aid students in learning about the bootloader, memory management, user environments, preemptive multitasking, and file systems via building a kernel. Everything up to file systems (part 5) is correct. I am having a slight issue there.
+JOS was developed at MIT to aid students in learning about the bootloader, memory management, user environments, preemptive multitasking, and file systems via building a kernel. 
